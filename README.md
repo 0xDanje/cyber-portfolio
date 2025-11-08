@@ -5,3 +5,6 @@ I was introduced to cybersecurity for my job in the military as a computer syste
 The NCL CTF was a fun challenge that really brought me back to what I love about cybersecurity, solving problems, disecting technology, and accomplishing things through understanding derived by trial and error. I will be getting more involved and structured in the future and perhaps even attempt to compete!
 
 The biggest highlight for me for this NCL CTF was delving into new technologies in forensics and working my way through a problem set I had no experience in.
+
+
+Check out the scouting report for a breakdown of my participation of the NCL Fall 2025 Individual game!
